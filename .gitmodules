@@ -1,0 +1,6 @@
+[submodule "matmake"]
+	path = matmake
+	url = https://github.com/mls-m5/matmake.git
+[submodule "wavfile"]
+	path = wavfile
+	url = https://github.com/mls-m5/wavfile.git

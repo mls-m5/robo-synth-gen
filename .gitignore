@@ -1,0 +1,11 @@
+*.o
+.depend
+*.so
+*.swp
+*~
+
+.cproject
+.project
+.settings
+
+output/*.wav
